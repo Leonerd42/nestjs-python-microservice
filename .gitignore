@@ -1,0 +1,6 @@
+.dist/
+
+client-microservice/dist/
+client-microservice/node-modules/
+
+python-nestjs/.dist/
